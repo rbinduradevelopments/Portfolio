@@ -173,32 +173,33 @@ export default function Home() {
       </section>
       
 
-      {/* Featured Projects */}
+            {/* Featured Projects */}
       <section className="px-6 max-w-5xl mx-auto mb-16">
         <h2 className="text-3xl font-bold text-center mb-8">
           Featured Projects
         </h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white dark:bg-gray-800 rounded-xl shadow p-4 hover:scale-105 transition">
-            <h3 className="font-bold mb-2">2D Platformer Game 🎮</h3>
-            <p className="text-sm">
+            <h3 className="font-bold mb-2 text-gray-900 dark:text-white">2D Platformer Game 🎮</h3>
+            <p className="text-sm text-gray-700 dark:text-gray-300">
               My first ever game project during A Levels.
             </p>
           </div>
           <div className="bg-white dark:bg-gray-800 rounded-xl shadow p-4 hover:scale-105 transition">
-            <h3 className="font-bold mb-2">Clothing Brand 👕</h3>
-            <p className="text-sm">
+            <h3 className="font-bold mb-2 text-gray-900 dark:text-white">Clothing Brand 👕</h3>
+            <p className="text-sm text-gray-700 dark:text-gray-300">
               Designed and sold fashion pieces in Zimbabwe.
             </p>
           </div>
           <div className="bg-white dark:bg-gray-800 rounded-xl shadow p-4 hover:scale-105 transition">
-            <h3 className="font-bold mb-2">Portfolio Website 🚀</h3>
-            <p className="text-sm">
+            <h3 className="font-bold mb-2 text-gray-900 dark:text-white">Portfolio Website 🚀</h3>
+            <p className="text-sm text-gray-700 dark:text-gray-300">
               This site — documenting my journey and projects.
             </p>
           </div>
         </div>
       </section>
+
 
       {/* Dark Mode Toggle */}
       <div className="fixed bottom-6 right-6">
