@@ -21,7 +21,7 @@ export default function Projects() {
         "A car rental web app I created for my A-Level NEA using ASP.NET MVC with C#.",
       previewType: "image", // screenshot preview
       preview: "/carhire1.png", // save inside /public
-      link: "/projects/car-hire",
+      link: "/projects/car-rental",
     },
     {
       title: "Careomat Cleaning Web App 🧹",
