@@ -27,7 +27,7 @@ export default function Projects() {
       title: "Careomat Cleaning Web App 🧹",
       caption: "Freelance project",
       description:
-        "A business web app designed for a cleaning company to showcase services and manage inquiries.",
+        "A business web app designed for a cleaning company to showcase services and manage inquiries.The link below does not go anywhere, i will add the Careomat weblink soon.",
       previewType: "image", // screenshot preview
       preview: "/careomat1.png", // save inside /public
       link: "/projects/careomat",
