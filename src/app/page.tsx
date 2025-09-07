@@ -130,7 +130,7 @@ export default function Home() {
           Over the years, I’ve invested in developing a wide range of skills —
           in tech, business, fashion, and media — all with one mission in mind:
           to create projects that are innovative, impactful, and make life
-          better in some way. Now, at 20, I feel I have a lot to show, which is
+          better in some way. Now, at 19, I feel I have a lot to show, which is
           why I built this portfolio — to share my journey, showcase my
           projects, and connect with people who share the same drive for growth
           and change.
