@@ -11,7 +11,7 @@ export default function Projects() {
       description:
         "The first game I made during my A-Level Digital Media studies — a 2D platformer built with Construct 3.",
       previewType: "video", // video for the game
-      preview: "/game-preview.mp4", // save this file inside /public
+      preview: "/game-preview.mp4", //  file inside /public
       link: "/projects/game",
     },
     {
