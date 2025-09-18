@@ -5,7 +5,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Car Rental System — Project | Redeemed Bindura",
   description:
-    "A role-based car rental system (ASP.NET MVC + SQL Server). Customers can register; Admin & Staff accounts are seeded. Demo + safety notes included.",
+    "A role-based car rental system (ASP.NET MVC + SQL Server). Customers can register; Admin & Staff accounts are seeded. Demo + safety notes included below.",
 };
 
 // Hard-coded demo URL (works on Netlify without env vars)
