@@ -23,13 +23,11 @@ export default function CarRentalProject() {
           <span className="font-semibold">ASP.NET MVC</span> and{" "}
           <span className="font-semibold">SQL Server</span>. It supports Admin, Employee
           (Staff), and Customer roles with vehicle management, availability status, and a
-          booking flow backed by a relational database.
+          booking flow backed by a relational database. 
         </p>
 
         <p className="text-sm max-w-2xl mx-auto text-gray-400">
-          <span className="font-semibold">About the project:</span> I built this for my
-          Computer Science NEA, and it played a huge role in helping me pass A Level
-          Computer Science with a very good grade.
+          <span className="font-semibold">About the project:</span> I built this for my Computer Science NEA, which gave me hands-on experience with real development practices — from planning to testing.
         </p>
 
         <div className="flex flex-wrap gap-2 justify-center mt-6">
